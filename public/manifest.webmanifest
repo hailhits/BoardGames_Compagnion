@@ -1,1 +1,19 @@
-
+{
+  "name": "BoardGames Companion",
+  "short_name": "BoardGames",
+  "description": "Compagnon mobile pour jeux de société.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/assets/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
